@@ -1,5 +1,9 @@
 # Diabetes-Perdiction-using-Machine-Learning
 
+<h3>Context</h3> 
+
+The objective of the model is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
+
 <h3>Table of Content</h3>
 
 1- Loading Required libraries  
